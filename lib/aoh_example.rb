@@ -28,7 +28,7 @@ def literal_aoh
     KATE_G,
     BRUCE_G
     ]
-  array.sort!
+  
    
 end
 
