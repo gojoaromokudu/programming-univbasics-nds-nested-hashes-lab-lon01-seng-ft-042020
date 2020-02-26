@@ -28,8 +28,8 @@ def literal_aoh
     KATE_G,
     BRUCE_G
     ]
-   sorted_array = array.sort
-    sorted_array
+  array.sort!
+   
 end
 
 def aoh_lookup(aoh, row, key)
